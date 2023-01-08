@@ -1,0 +1,44 @@
+body{
+    background:linear-gradient(#32a83c 0%,#1d82c4 100% );
+}
+ #theScore{
+    font-size: 30px;
+    float: left;
+    margin-left: 10px;
+    font-weight: bolder;
+ }
+ #timer{
+    font-size: 30px;
+    float: right;
+    margin-right: 100px;
+    font-weight: bolder;
+
+ }
+ #toBeDrawn{
+    color: darkorange;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ #object{
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+ }
+
+ #confidence{
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+
+ h1{
+    background-color: mediumblue;
+    color: #32a83c;
+    font-weight: bolder;
+    
+ }
+ button{
+   float: right;
+ }
+
